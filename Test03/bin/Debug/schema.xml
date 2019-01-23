@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <AllStdDetailsByStdNo>
+    <ID_number>5608015507093</ID_number>
+    <first_name>Azola</first_name>
+    <middle_name>Agnes</middle_name>
+    <surname>Mtebele</surname>
+    <date_of_registration>2019/01/18</date_of_registration>
+    <gender>Male</gender>
+    <age>62</age>
+    <citizenship>South African</citizenship>
+    <date_of_birth>1956/08/01</date_of_birth>
+    <Student_No>219000001</Student_No>
+    <Parent_Name />
+    <Parent_ID />
+    <Parent_Phone />
+  </AllStdDetailsByStdNo>
+</NewDataSet>
